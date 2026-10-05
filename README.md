@@ -402,7 +402,7 @@ Raw datasets, processed data, environment secrets, and the Power BI binary are e
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Manas637/customer-marketing-analytics
 cd customer-marketing-analytics
 ```
 
